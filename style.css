@@ -1,4 +1,4 @@
-* {
+*{
     margin: 0;
     padding: 0;
 }
@@ -107,7 +107,7 @@ ul>li {
 
 .card {
     width: 135px;
-    padding-right: 3%;
+    padding-right: 5%;
 }
 
 .card>p {
@@ -124,19 +124,20 @@ ul>li {
 }
 
 .main-quote-section {
-    font-size: 24px;
+    font-size: 36px;
     padding: 4%;
     background-color: #c5c5c5;
 }
 
 .main-quote {
-    padding-left: 20%;
-    width: 60%;
+    box-sizing: border-box;
+    padding-left: 22%;
+    /* width: 60%; */
 }
 
 .writer {
     text-align: end;
-    padding-right: 15%;
+    padding-right: 25%;
     font-weight: 900;
     font-size: 28px;
     font-style: normal;
